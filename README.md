@@ -1,6 +1,6 @@
-# :toolbox: Hub: personal projects
+# <p align="center">:toolbox: Hub: personal projects</p>
 
-### Work in progress. Stay tuned!
+### <p align="center">Work in progress. Stay tuned!</p>
 
 :building_construction: Coming next: deploying a data architecture.
 
